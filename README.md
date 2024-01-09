@@ -1,4 +1,5 @@
 # Work-Day-Scheduler
+
 Simple calendar application that allows a user to save events for each hour of the day by modifying starter code.
 
 ## Description
@@ -31,13 +32,13 @@ Persist events between refreshes of a page.
 
 ## Deployed Site
 
-Deployed: https://gemma-wood.github.io/Code-Quiz/
+Deployed: https://gemma-wood.github.io/Work-Day-Scheduler/
 
 ## Project Screenshots
 
-<img width="1341" alt="Screenshot 2024-01-03 at 21 05 48" src="https://github.com/Gemma-Wood/Code-Quiz/assets/150028191/b995df03-e7f9-4527-af60-c655a341a54a">
+![Screenshot 2024-01-09 at 19 39 33](https://github.com/Gemma-Wood/Work-Day-Scheduler/assets/150028191/06819273-0d92-42da-8110-f5d245d75268)
 
-<img width="1339" alt="Screenshot 2024-01-03 at 21 06 17" src="https://github.com/Gemma-Wood/Code-Quiz/assets/150028191/8d9525ff-e106-4e3f-bd92-e5ca25ecac80">
+![Screenshot 2024-01-09 at 19 40 01](https://github.com/Gemma-Wood/Work-Day-Scheduler/assets/150028191/9f63eb1b-e31b-4f73-bd72-99b9f46900e5)
 
 ## License
 
